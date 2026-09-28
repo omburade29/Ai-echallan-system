@@ -1,0 +1,68 @@
+[
+  {
+    "phone": "9876543210",
+    "message": "Your RTO E-Challan registration OTP is 609280. Valid for 5 minutes.",
+    "purpose": "register_otp",
+    "reference": "9876543210",
+    "provider": "Fast2SMS",
+    "status": "DEMO_NOT_SENT",
+    "detail": "API not configured. Add SMS_API_KEY (and optionally SMS_SENDER_ID) to backend/.env (get it from fast2sms.com/dashboard/dev-api).",
+    "created_at": "2026-09-20T13:39:49",
+    "_id": "b0b578b9186f46c39a0c7d5eaea425b9"
+  },
+  {
+    "phone": "9067816121",
+    "message": "Your RTO E-Challan registration OTP is 601662. Valid for 5 minutes.",
+    "purpose": "register_otp",
+    "reference": "9067816121",
+    "provider": "Fast2SMS",
+    "status": "DEMO_NOT_SENT",
+    "detail": "API not configured. Add SMS_API_KEY (and optionally SMS_SENDER_ID) to backend/.env (get it from fast2sms.com/dashboard/dev-api).",
+    "created_at": "2026-09-20T13:41:12",
+    "_id": "20102a484e3d4e929441c97aea6ae544"
+  },
+  {
+    "phone": "9067816121",
+    "message": "Your RTO E-Challan registration OTP is 243794. Valid for 5 minutes.",
+    "purpose": "register_otp",
+    "reference": "9067816121",
+    "provider": "Fast2SMS",
+    "status": "DEMO_NOT_SENT",
+    "detail": "API not configured. Add SMS_API_KEY (and optionally SMS_SENDER_ID) to backend/.env (get it from fast2sms.com/dashboard/dev-api).",
+    "created_at": "2026-09-20T14:28:19",
+    "_id": "fe10afe0541747e1bc1847b84cf17c3d"
+  },
+  {
+    "phone": "9067816121",
+    "message": "Your RTO E-Challan registration OTP is 278711. Valid for 5 minutes.",
+    "purpose": "register_otp",
+    "reference": "9067816121",
+    "provider": "Fast2SMS",
+    "status": "DEMO_NOT_SENT",
+    "detail": "API not configured. Add SMS_API_KEY (and optionally SMS_SENDER_ID) to backend/.env (get it from fast2sms.com/dashboard/dev-api).",
+    "created_at": "2026-09-20T14:31:34",
+    "_id": "34f83f835e8045898fce511edd1022b7"
+  },
+  {
+    "phone": "9067816121",
+    "message": "Your RTO E-Challan registration OTP is 078199. Valid for 5 minutes.",
+    "purpose": "register_otp",
+    "reference": "9067816121",
+    "provider": "Fast2SMS",
+    "status": "DEMO_NOT_SENT",
+    "detail": "API not configured. Add SMS_API_KEY (and optionally SMS_SENDER_ID) to backend/.env (get it from fast2sms.com/dashboard/dev-api).",
+    "created_at": "2026-09-20T14:33:53",
+    "_id": "a5b1d89cbdfa4464a1677a69990f57e0"
+  },
+  {
+    "phone": "9067816121",
+    "message": "Your RTO E-Challan registration OTP is 349578. Valid for 5 minutes.",
+    "purpose": "register_otp",
+    "reference": "9067816121",
+    "provider": "Fast2SMS",
+    "status": "SENT",
+    "detail": "Demo SMS accepted for number ending 6121 (not delivered to the phone).",
+    "created_at": "2026-09-20T14:40:59",
+    "_id": "a013250e21784e60a87e6882ff5aaafb"
+  }
+]

@@ -46,8 +46,10 @@ logging.basicConfig(
 )
 logger = logging.getLogger("rto")
 
-# Built React app (npm run build). Served from the same origin as /api.
-FRONTEND_DIST = BACKEND_DIR.parent / "frontend" / "dist"
+# One-folder deploy keeps the built pages in ui/. Development uses frontend/dist.
+_bundled_ui = BACKEND_DIR / "ui"
+_dev_ui = BACKEND_DIR.parent / "frontend" / "dist"
+FRONTEND_DIST = _bundled_ui if (_bundled_ui / "index.html").is_file() else _dev_ui
 FRONTEND_INDEX = FRONTEND_DIST / "index.html"
 
 

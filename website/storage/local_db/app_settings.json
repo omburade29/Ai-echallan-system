@@ -1,0 +1,1 @@
+[{"_id":"app_settings","rto_office_name":"Regional Transport Office","rto_code":"MH-29","state":"Maharashtra","contact_number":"","auto_challan":true,"detection_interval_seconds":8.0,"detection_cooldown_seconds":45.0,"detection_min_confidence":0.5,"sms_on_challan":true,"challan_due_days":30,"updated_at":"2026-09-23T06:23:39","updated_by":"ADMIN001"}]

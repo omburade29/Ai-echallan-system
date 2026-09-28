@@ -1,0 +1,20 @@
+[
+  {
+    "phone": "9876543210",
+    "purpose": "register",
+    "code": "609280",
+    "attempts": 0,
+    "created_at": "2026-09-20T13:39:49",
+    "expires_at": "2026-09-20T13:44:49",
+    "_id": "248a841bf712496a8d848577fc19f089"
+  },
+  {
+    "phone": "9067816121",
+    "purpose": "register",
+    "code": "349578",
+    "attempts": 0,
+    "created_at": "2026-09-20T14:40:59",
+    "expires_at": "2026-09-20T14:45:59",
+    "_id": "b0b1031b95fd414f9c488c714ef6310c"
+  }
+]
